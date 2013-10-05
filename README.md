@@ -11,6 +11,8 @@ The site will look something like what happens when you type this in the console
     $('li.menu-item a').css('color', '#072761');
     $('body').css('backgroundColor', '#dbecff').css('color', '#072761');
     $('#header, #navigation, #columbialogo').css('backgroundColor', '#b7d8fc');
+    
+![Example colors](https://raw.github.com/columbiagsapp/giving-day/master/example.png)
 
 ## Widget
 
